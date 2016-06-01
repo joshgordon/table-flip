@@ -7,5 +7,5 @@ console.error = function () {
 //console.warn
 var w = console.warn;
 console.warn = function () {
-  e.apply(undefined, ["ಠ_ಠ"].concat(Array.prototype.slice.call(arguments)));
+  w.apply(undefined, ["ಠ_ಠ"].concat(Array.prototype.slice.call(arguments)));
 };
