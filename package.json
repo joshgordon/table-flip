@@ -1,6 +1,6 @@
 {
   "name": "table-flip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prepends （╯°□°）╯︵ ┻━┻ to error messages. ",
   "main": "index.js",
   "scripts": {
